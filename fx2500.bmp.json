@@ -5086,7 +5086,7 @@
         "bitsize": 5,
         "blue": 0,
         "crosshaircolor": "#888888",
-        "gatorom": "--decode-cols-downl-swap -i -r 90 ",
+        "gatorom": "-w 22 --decode-cols-downl -i -r 0 ",
         "green": 0,
         "inverted": false,
         "linecolor": "#000000",
