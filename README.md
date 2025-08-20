@@ -9,7 +9,12 @@ See my article on page 32 of
 [pocorgtfo22.pdf](https://github.com/angea/pocorgtfo/blob/master/releases/pocorgtfo22.pdf)
 for details.
 
-I've heard that Tomek Malensinski has a working emulator and the
-appropriate settings.  I'll link those here as they are published.
+Tomek Malesinski has a repository on
+[mk51fx2500re](https://github.com/tmalesinski/mk51fx2500re), that
+includes a functioning emulator and documentation of the chip and its
+instructions.
+[mk51fx2500rom](https://github.com/tmalesinski/mk51fx2500rom) contains
+his decoder for the ROM images, which have not yet been reincorporated
+into Mask Rom Tool.
 
 --Travis Goodspeed
