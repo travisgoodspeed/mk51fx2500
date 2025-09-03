@@ -1,8 +1,8 @@
 Howdy y'all,
 
 These are the ROM photographs of the Casio FX2500 and its clone, the
-Электроника МК51.  All bits are marked, but these do not yet have
-documented decoding settings in [Mask Rom
+Электроника МК51.  All bits are marked, and these have documented
+decoding settings in [Mask Rom
 Tool](https://github.com/travisgoodspeed/maskromtool/).
 
 See my article on page 32 of
@@ -36,5 +36,7 @@ Tool](https://github.com/travisgoodspeed/maskromtool/) to your `$PATH`
 and then run `make clean all`.  You can also export the words from the
 MaskRomTool GUI, producing 24-bit little endian files of the 22-bit
 ROM words.
+
+If you just want a binary, see PREBUILT.TXT and PREBUILT.BIN.
 
 --Travis Goodspeed
