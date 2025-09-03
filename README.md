@@ -1,7 +1,7 @@
 Howdy y'all,
 
 These are the ROM photographs of the Casio FX2500 and its clone, the
-Електроника МК51.  All bits are marked, but these do not yet have
+Электроника МК51.  All bits are marked, but these do not yet have
 documented decoding settings in [Mask Rom
 Tool](https://github.com/travisgoodspeed/maskromtool/).
 
